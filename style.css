@@ -40,6 +40,7 @@ details > summary:focus {
   
   /* layout */
   section.accordion {
+    align-items: center;
     max-width: 400px;
     width: 100%;
     padding: 10px; 
