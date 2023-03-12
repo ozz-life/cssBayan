@@ -62,3 +62,14 @@ details > * {
   justify-content: center;
   display: flex;
 }
+
+.imgH {
+  opacity: 1;
+  transition: opacity 0.5s;
+  float: left;
+}
+
+.imgH:hover {
+  opacity: 0.2;
+  transition: opacity 0.5s;
+}
